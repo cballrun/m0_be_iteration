@@ -7,7 +7,7 @@
 weather_options = ["sunny", "snowy", "freezing", "partly cloudy", "drizzly"]
 
 weather_options.each do |weather|
-  puts "It is |weather| outside."
+  puts "It is "{weather_options}" outside."
 
 end
 
